@@ -1,3 +1,14 @@
 body {
+  background-color: pink;
+}
 
+h3 {
+  color: white;
+  font size: 400%;
+  text-decoration: underline;
+}
+img {
+  width: 30%;
+  background-color: pink;
+  
 }
