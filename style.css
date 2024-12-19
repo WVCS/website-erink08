@@ -38,3 +38,48 @@ li a:hover {
   background-color: pink;
   padding: 
 }
+
+<head> <link rel="stylesheet" href="style.css">
+
+<title> TAB TITLE </title>
+  </head>
+body {
+  background-color: pink;
+}
+
+h3 {
+  color: white;
+  font size: 400%;
+  text-decoration: underline;
+}
+img {
+  width: 30%;
+  background-color: pink;
+  
+}
+ul {
+  list-style-type: none;
+  background-color: white;
+  margin: 0;
+  width: 100%;
+  padding: 10px;
+  top: 0;
+  left: 0;
+  position: fixed;
+}
+li{
+  display: inline;
+  padding: 10px 20px;
+  float: center;
+}
+
+a{
+  text-decoration: none;
+  color: hotpink;
+  font-variant: small-caps;
+}
+
+li a:hover {
+  background-color: pink;
+  padding: 
+}
